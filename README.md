@@ -7,6 +7,8 @@ I'm a passionate software developer currently pursuing a degree in Information T
 ![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
 *Active since*: `September 2024`
 
+-**Account From:** `September 2020`
+
 ## 🌟 Projects & Contributions
 - 🚀 I'm actively building a diverse range of projects, including:
   - **[BOOKSNAP](https://github.com/aadesh0706/BookSnap)**: A platform for college students to share notes, resell books, and connect with peers.
