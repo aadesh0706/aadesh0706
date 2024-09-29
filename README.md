@@ -10,9 +10,9 @@ I'm a passionate software developer currently pursuing a degree in Information T
 ## 🌟 Projects & Contributions
 - 🚀 I'm actively building a diverse range of projects, including:
   - **[BOOKSNAP](https://github.com/aadesh0706/BookSnap)**: A platform for college students to share notes, resell books, and connect with peers.
-  - **IoT Distance Detection Model**: Developed an IoT model that detects the distance between objects with data visualization on a web interface.
+  - **[IoT Distance Detection Model](https://github.com/aadesh0706/Ultrasonic)**: Developed an IoT model that detects the distance between objects with data visualization on a web interface.
   - **Women Safety App**: Android app with SOS emergency features for enhanced safety.
-  - **ESP32 RubberDucky**: Created a device based on ESP32 with hacking features like HID Bluetooth functionality.
+  - **[IOT-ESP32-Evil-Twin-WiFi-Hacking-Deauthentication-Captive-Portal](https://github.com/aadesh0706/IOT-ESP32-Evil-Twin-WiFi-Hacking-Deauthentication-Captive-Portal)**: Created a device based on ESP32 with hacking features like WiFi Hacking.
   - ...and many more!
 
 Feel free to explore my repositories to see my full range of work!
