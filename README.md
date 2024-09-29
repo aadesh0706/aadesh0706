@@ -32,7 +32,7 @@ Feel free to explore my repositories to see my full range of work!
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aadesh-gulumbe-b965b0246)
 - **Portfolio**: [Visit my portfolio](https://aadesh0706.github.io/portfolio/)
 - **YouTube**: [Subscribe to my YouTube channel](https://www.youtube.com/@marathicodingzone)
-- **Email**: aadesh.gulumbe@example.com
+
 
 ## ⚡ Fun Fact
 When I'm not coding, you can find me exploring the latest trends in cybersecurity, working on innovative IoT solutions, or collaborating with my team, **Qubits**, to bring exciting projects like **BOOKSNAP** to life.
