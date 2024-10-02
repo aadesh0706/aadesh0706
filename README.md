@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-I'm a passionate software developer currently pursuing a degree in Information Technology at **PCET's NMIET Talegaon Dabhade, Pune**. With over **32 repositories** and numerous projects across different fields like web development, IoT, and mobile apps, I thrive on solving real-world problems using innovative tech solutions.
+I'm a passionate software developer currently pursuing a degree in Information Technology at **PCET's NMIET Talegaon Dabhade, Pune**. With over **35 repositories** and numerous projects across different fields like web development, IoT, and mobile apps, I thrive on solving real-world problems using innovative tech solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
 *Active since*: `September 2024`
