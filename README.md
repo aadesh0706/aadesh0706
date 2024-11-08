@@ -38,9 +38,9 @@ Feel free to explore my repositories to see my full range of work!
 ## ⚡ Fun Fact
 When I'm not coding, you can find me exploring the latest trends in cybersecurity, working on innovative IoT solutions, or collaborating with my team, **Qubits**, to bring exciting projects like **BOOKSNAP** to life.
 
-## 🛠️ GitHub Stats
+<!-- ## 🛠️ GitHub Stats
 ![Aadesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadesh0706&show_icons=true&theme=radical)
-
+-->
 ## 🌱 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadesh0706&layout=compact&theme=radical)
 
