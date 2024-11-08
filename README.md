@@ -6,7 +6,6 @@ I'm a passionate software developer currently pursuing a degree in Information T
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
 <!--*Active since*: `September 2024` -->
-
 **Account From:** `September 2020`
 
 ## 🌟 Projects & Contributions
