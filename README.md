@@ -31,7 +31,7 @@ Feel free to explore my repositories to see my full range of work!
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aadesh-gulumbe-b965b0246)
-- **Portfolio**: [Visit my portfolio](https://aadesh0706.github.io/portfolio/)
+- **Portfolio**: [Visit my portfolio](https://www.aadeshgulumbe.me/)
 - **YouTube**: [Subscribe to my YouTube channel](https://www.youtube.com/@marathicodingzone)
 
 
