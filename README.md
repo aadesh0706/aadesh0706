@@ -9,7 +9,7 @@ I'm a passionate software developer currently pursuing a degree in Information T
 **Account From:** `September 2020`
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aadesh0706)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=aadesh0706)](https://git.io/streak-stats) -->
 
 ## 🌟 Projects & Contributions
 - 🚀 I'm actively building a diverse range of projects, including:
